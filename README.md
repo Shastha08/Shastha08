@@ -1,335 +1,174 @@
-<!-- =========================================================
-     SHASTHA CHANDRU S | EMBEDDED SYSTEMS ENGINEER
-     PREMIUM GITHUB PROFILE
-     ========================================================= -->
+<!-- SHASTHA CHANDRU S | EMBEDDED SYSTEMS ENGINEER -->
 
 <p align="center">
-  <img src="./shastha08_github_header_banner.png" width="100%" alt="SHASTHA CHANDRU S | STM32 ESP32 ARM"/>
-</p>
-
-<h2 align="center">SHASTHA CHANDRU S</h2>
-<p align="center">
-  <b>EMBEDDED SYSTEMS ENGINEER</b>
-  <br/>
-  Firmware Development • Microcontrollers • IoT • PCB Design
+  <img src="assets/header-banner.png" alt="Shastha Chandru S — Embedded Systems Engineer | STM32, ESP32 and ARM" width="100%">
 </p>
 
 <p align="center">
-  <a href="https://github.com/Shastha08">
-    <img src="https://img.shields.io/badge/GITHUB-Shastha08-39FF14?style=for-the-badge&logo=github&logoColor=white&labelColor=101010"/>
-  </a>
-  <a href="https://www.linkedin.com/in/shastha-chandru-s/">
-    <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
+  <strong>EMBEDDED SYSTEMS ENGINEER</strong><br>
+  Firmware Development&nbsp; • &nbsp;Microcontrollers&nbsp; • &nbsp;IoT&nbsp; • &nbsp;PCB Design
+</p>
+
+<p align="center">
+  <a href="https://github.com/Shastha08"><img src="https://img.shields.io/badge/GitHub-Shastha08-181717?style=for-the-badge&logo=github" alt="GitHub"></a>
+  <a href="https://www.linkedin.com/in/shastha-chandru-s/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"></a>
 </p>
 
 ---
 
 <table>
-<tr>
-<td width="30%" valign="top">
-
-<h3 align="center">ENGINEER PROFILE</h3>
-
-<p align="center">
-  <img src="https://github.com/Shastha08.png" width="145" alt="GitHub profile avatar"/>
-</p>
-
-<p align="center">
-  <b>SHASTHA CHANDRU S</b>
-  <br/>
-  Embedded Systems Engineer
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/STM32-EXPERTISE-39FF14?style=flat-square&labelColor=101010"/>
-  <img src="https://img.shields.io/badge/ESP32-DEVELOPMENT-39FF14?style=flat-square&labelColor=101010"/>
-  <img src="https://img.shields.io/badge/PCB-DESIGN-39FF14?style=flat-square&labelColor=101010"/>
-</p>
-
-**Professional Areas**
-
-- Embedded Firmware
-- IoT Development
-- PCB Design
-- Hardware Integration
-- Technical Training
-
-**Find Me**
-
-- [GitHub](https://github.com/Shastha08)
-- [LinkedIn](https://www.linkedin.com/in/shastha-chandru-s/)
-
-</td>
-
-<td width="70%" valign="top">
-
-<h3>ABOUT ME</h3>
-
-I am **SHASTHA CHANDRU S**, an Embedded Systems Engineer passionate about transforming electronic hardware into intelligent and reliable embedded products.
-
-My engineering interests focus on microcontroller programming, firmware architecture, hardware interfacing and IoT-based solutions.
-
-**What I Work With**
-
-- STM32 ARM Cortex-M microcontrollers.
-- ESP32 wireless and IoT development.
-- PIC microcontroller programming.
-- Embedded C and C++.
-- Register-level peripheral configuration.
-- UART, SPI, I2C and CAN communication.
-- PCB design and hardware prototyping.
-
-**My Engineering Philosophy**
-
-> ENGINEERED IN CODE. POWERED BY CIRCUITS.
-
-
-<h2 align="center">01 | TECHNOLOGY STACK</h2>
-
-**Programming Languages**
-
-<p>
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-</p>
-
-**Microcontroller Platforms**
-
-<p>
-<img src="https://img.shields.io/badge/STMicroelectronics-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white"/>
-<img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white"/>
-<img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
-<img src="https://img.shields.io/badge/PIC-00599C?style=for-the-badge"/>
-</p>
-
-**PCB Design & Simulation**
-
-<p>
-<img src="https://img.shields.io/badge/Altium-A5915F?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/KiCad-314CB0?style=for-the-badge&logo=kicad&logoColor=white"/>
-<img src="https://img.shields.io/badge/EasyEDA-1765F6?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Proteus-333333?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/LTspice-8B0000?style=for-the-badge"/>
-</p>
-
-**Development Environments**
-
-<p>
-<img src="https://img.shields.io/badge/STM32CubeIDE-03234B?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Keil-00AEEF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/MPLAB-00599C?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino"/>
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode"/>
-</p>
-
----
-
-<h2 align="center">02 | FEATURED ENGINEERING PROJECTS</h2>
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-<h3>01. IoT Fingerprint Attendance System</h3>
-
-<p align="center">
-<img src="https://img.shields.io/badge/ESP32-39FF14?style=flat-square&labelColor=101010"/>
-<img src="https://img.shields.io/badge/R307S-39FF14?style=flat-square&labelColor=101010"/>
-</p>
-
-**Project Overview**
-
-Biometric attendance management with online monitoring and automatic attendance recording.
-
-**Hardware**
-
-- ESP32
-- R307S Fingerprint Sensor
-- DS3231 RTC
-- 16x2 I2C LCD
-
-**Key Features**
-
-- Fingerprint enrollment and identification.
-- Automatic IN/OUT attendance.
-- RTC date and time.
-- Google Sheets integration.
-
-<p align="center">
-<a href="https://github.com/Shastha08/ESP32-Based-Biometric-Attendance-Monitoring-System">
-<img src="https://img.shields.io/badge/VIEW_SOURCE_CODE-39FF14?style=for-the-badge&logo=github&logoColor=black"/>
-</a>
-</p>
-
-</td>
-<td width="50%" valign="top">
-
-<h3>02. GPS Location Display System</h3>
-
-<p align="center">
-<img src="https://img.shields.io/badge/PIC16F877A-39FF14?style=flat-square&labelColor=101010"/>
-<img src="https://img.shields.io/badge/NEO--7M-39FF14?style=flat-square&labelColor=101010"/>
-</p>
-
-**Project Overview**
-
-GPS-based location acquisition and coordinate display using a PIC microcontroller.
-
-**Hardware**
-
-- PIC16F877A
-- NEO-7M GPS
-- 16x2 LCD
-- Crystal oscillator
-
-**Key Features**
-
-- UART communication.
-- NMEA sentence parsing.
-- Latitude and longitude extraction.
-- GPS status indication.
-
-<p align="center">
-<a href="https://github.com/Shastha08/PIC_GPS">
-<img src="https://img.shields.io/badge/VIEW_SOURCE_CODE-39FF14?style=for-the-badge&logo=github&logoColor=black"/>
-</a>
-</p>
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-<h3>03. GSM Communication System</h3>
-
-<p align="center">
-<img src="https://img.shields.io/badge/PIC16F877A-39FF14?style=flat-square&labelColor=101010"/>
-<img src="https://img.shields.io/badge/SIM900A-39FF14?style=flat-square&labelColor=101010"/>
-</p>
-
-**Project Overview**
-
-GSM communication using PIC microcontroller and serial AT commands.
-
-**Key Features**
-
-- SMS transmission.
-- GSM voice call initiation.
-- Call termination.
-- UART serial communication.
-- Push-button control.
-
-<p align="center">
-<a href="https://github.com/Shastha08/PIC_GSM">
-<img src="https://img.shields.io/badge/VIEW_SOURCE_CODE-39FF14?style=for-the-badge&logo=github&logoColor=black"/>
-</a>
-</p>
-
-</td>
-
-<td width="50%" valign="top">
-
-<h3>04. Embedded Systems Development</h3>
-
-<p align="center">
-<img src="https://img.shields.io/badge/STM32-39FF14?style=flat-square&labelColor=101010"/>
-<img src="https://img.shields.io/badge/ESP32-39FF14?style=flat-square&labelColor=101010"/>
-</p>
-
-**Engineering Focus**
-
-- Bare-metal microcontroller programming.
-- Register-level peripheral configuration.
-- IoT and wireless communication.
-- Hardware interfacing.
-- PCB design and prototyping.
-
-<p align="center">
-<a href="https://github.com/Shastha08?tab=repositories">
-<img src="https://img.shields.io/badge/EXPLORE_REPOSITORIES-39FF14?style=for-the-badge&logo=github&logoColor=black"/>
-</a>
-</p>
-
-</td>
-</tr>
+  <tr>
+    <td width="31%" valign="top">
+      <h3 align="center">ENGINEER PROFILE</h3>
+      <p align="center"><img src="https://github.com/Shastha08.png" width="132" alt="Shastha08 GitHub avatar"></p>
+      <p align="center"><strong>SHASTHA CHANDRU S</strong><br>Embedded Systems Engineer</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/STM32-Firmware-39D353?style=flat-square" alt="STM32 firmware">
+        <img src="https://img.shields.io/badge/ESP32-IoT-39D353?style=flat-square" alt="ESP32 IoT">
+        <img src="https://img.shields.io/badge/PCB-Design-39D353?style=flat-square" alt="PCB design">
+      </p>
+      <hr>
+      <strong>CORE AREAS</strong>
+      <ul>
+        <li>Embedded firmware</li>
+        <li>Microcontroller interfacing</li>
+        <li>IoT and wireless systems</li>
+        <li>PCB design and prototyping</li>
+        <li>Technical training</li>
+      </ul>
+      <p><a href="https://github.com/Shastha08">GitHub</a><br><a href="https://www.linkedin.com/in/shastha-chandru-s/">LinkedIn</a></p>
+    </td>
+    <td width="69%" valign="top">
+      <h3>ABOUT ME</h3>
+      I am <strong>SHASTHA CHANDRU S</strong>, an Embedded Systems Engineer focused on developing practical electronics solutions through firmware, hardware integration and connected systems.
+      <br><br>
+      <strong>Engineering interests</strong>
+      <ul>
+        <li>STM32 ARM Cortex-M development and register-level programming</li>
+        <li>ESP32 firmware, Wi-Fi and IoT applications</li>
+        <li>Embedded C/C++ and peripheral drivers</li>
+        <li>UART, SPI, I²C, CAN and wireless communication</li>
+        <li>PCB design, hardware debugging and prototyping</li>
+        <li>Robotics, automation and embedded systems mentoring</li>
+      </ul>
+      <p><strong>ENGINEERED IN CODE. POWERED BY CIRCUITS.</strong></p>
+    </td>
+  </tr>
 </table>
 
 ---
 
-<h2 align="center">03 | ENGINEERING INTERESTS</h2>
+## TECHNICAL TOOLKIT
 
 <table>
-<tr>
-<td align="center" width="33%">
-
-**STM32 DEVELOPMENT**
-
-ARM Cortex-M
-
-Bare-Metal Firmware
-
-Peripheral Drivers
-
-</td>
-<td align="center" width="33%">
-
-**ESP32 DEVELOPMENT**
-
-IoT Applications
-
-Wireless Connectivity
-
-Embedded Web Servers
-
-</td>
-<td align="center" width="33%">
-
-**PCB ENGINEERING**
-
-Circuit Design
-
-PCB Layout
-
-Hardware Prototyping
-
-</td>
-</tr>
+  <tr>
+    <td width="50%" valign="top">
+      <strong>MICROCONTROLLERS</strong><br><br>
+      <img src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white" alt="STM32">
+      <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" alt="ESP32"><br>
+      <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino">
+      <img src="https://img.shields.io/badge/PIC-245A9A?style=for-the-badge" alt="PIC"><br>
+      <img src="https://img.shields.io/badge/8051-444444?style=for-the-badge" alt="8051">
+      <img src="https://img.shields.io/badge/LPC2148-245A9A?style=for-the-badge" alt="LPC2148">
+    </td>
+    <td width="50%" valign="top">
+      <strong>PROGRAMMING</strong><br><br>
+      <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C">
+      <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++">
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"><br><br>
+      <strong>PROTOCOLS</strong><br><br>
+      <img src="https://img.shields.io/badge/UART-333333?style=flat-square" alt="UART">
+      <img src="https://img.shields.io/badge/I2C-333333?style=flat-square" alt="I2C">
+      <img src="https://img.shields.io/badge/SPI-333333?style=flat-square" alt="SPI">
+      <img src="https://img.shields.io/badge/CAN-333333?style=flat-square" alt="CAN">
+      <img src="https://img.shields.io/badge/Wi--Fi-333333?style=flat-square" alt="Wi-Fi">
+      <img src="https://img.shields.io/badge/LoRa-333333?style=flat-square" alt="LoRa">
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">
+      <strong>PCB & SIMULATION</strong><br><br>
+      <img src="https://img.shields.io/badge/Altium-A5915F?style=flat-square" alt="Altium">
+      <img src="https://img.shields.io/badge/KiCad-314CB0?style=flat-square&logo=kicad&logoColor=white" alt="KiCad">
+      <img src="https://img.shields.io/badge/EasyEDA-1765F6?style=flat-square" alt="EasyEDA">
+      <img src="https://img.shields.io/badge/Proteus-333333?style=flat-square" alt="Proteus">
+      <img src="https://img.shields.io/badge/LTspice-8B0000?style=flat-square" alt="LTspice">
+    </td>
+    <td valign="top">
+      <strong>DEVELOPMENT ENVIRONMENTS</strong><br><br>
+      <img src="https://img.shields.io/badge/STM32CubeIDE-03234B?style=flat-square" alt="STM32CubeIDE">
+      <img src="https://img.shields.io/badge/Keil-00AEEF?style=flat-square" alt="Keil">
+      <img src="https://img.shields.io/badge/MPLAB-00599C?style=flat-square" alt="MPLAB">
+      <img src="https://img.shields.io/badge/Arduino_IDE-00979D?style=flat-square" alt="Arduino IDE">
+    </td>
+  </tr>
 </table>
 
 ---
 
-<h2 align="center">04 | GITHUB CONTRIBUTIONS</h2>
+## SELECTED PROJECTS
 
-<p align="center">
-  My actual contribution calendar is available directly on my GitHub profile.
-</p>
-
-<p align="center">
-  <a href="https://github.com/Shastha08">
-    <img src="https://img.shields.io/badge/VIEW_GITHUB_ACTIVITY-39FF14?style=for-the-badge&logo=github&logoColor=black"/>
-  </a>
-</p>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>01 · IoT Fingerprint Attendance</h3>
+      <p><strong>ESP32 · R307S · DS3231 · Google Sheets</strong></p>
+      <ul>
+        <li>Fingerprint enrollment and identification</li>
+        <li>RTC-based date and time recording</li>
+        <li>LCD feedback and online attendance logging</li>
+      </ul>
+      <a href="https://github.com/Shastha08/ESP32-Based-Biometric-Attendance-Monitoring-System">OPEN REPOSITORY →</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>02 · PIC GPS Location Display</h3>
+      <p><strong>PIC16F877A · NEO-7M · LCD</strong></p>
+      <ul>
+        <li>UART-based GPS interfacing</li>
+        <li>NMEA data parsing</li>
+        <li>Latitude and longitude display</li>
+      </ul>
+      <a href="https://github.com/Shastha08/PIC_GPS">OPEN REPOSITORY →</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>03 · PIC GSM Communication</h3>
+      <p><strong>PIC16F877A · SIM900A</strong></p>
+      <ul>
+        <li>GSM modem interfacing</li>
+        <li>AT-command serial control</li>
+        <li>SMS and call functions</li>
+      </ul>
+      <a href="https://github.com/Shastha08/PIC_GSM">OPEN REPOSITORY →</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>04 · Embedded Development Projects</h3>
+      <p><strong>STM32 · ESP32 · LoRa · Robotics</strong></p>
+      <ul>
+        <li>STM32 register-level firmware</li>
+        <li>ESP32 web-controlled robotics</li>
+        <li>LoRa wireless communication</li>
+      </ul>
+      <a href="https://github.com/Shastha08?tab=repositories">BROWSE ALL REPOSITORIES →</a>
+    </td>
+  </tr>
+</table>
 
 ---
 
-<h2 align="center">05 | LET'S CONNECT</h2>
+## GITHUB PROFILE
 
 <p align="center">
-<a href="https://github.com/Shastha08">
-<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-<a href="https://www.linkedin.com/in/shastha-chandru-s/">
-<img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+  <a href="https://github.com/Shastha08?tab=repositories"><img src="https://img.shields.io/badge/Explore-Repositories-161B22?style=for-the-badge&logo=github" alt="Explore repositories"></a>
+  <a href="https://github.com/Shastha08?tab=stars"><img src="https://img.shields.io/badge/View-Starred_Projects-161B22?style=for-the-badge&logo=github" alt="Starred projects"></a>
 </p>
 
-<p align="center">
-  <b>BUILDING HARDWARE. WRITING FIRMWARE. CREATING INTELLIGENCE.</b>
-</p>
+<p align="center"><em>For live contribution history and repository activity, see the GitHub profile's native contribution graph above the pinned repositories.</em></p>
+
+---
 
 <p align="center">
-  <b>ENGINEERED IN CODE. POWERED BY CIRCUITS.</b>
+  <strong>TURNING CODE INTO INTELLIGENT HARDWARE.</strong><br>
+  <sub>Embedded Firmware · Connected Devices · Electronic Product Development</sub>
 </p>
