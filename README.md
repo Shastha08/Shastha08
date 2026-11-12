@@ -84,82 +84,8 @@ My engineering interests focus on microcontroller programming, firmware architec
 
 > ENGINEERED IN CODE. POWERED BY CIRCUITS.
 
-</td>
-</tr>
-</table>
 
----
-
-<h2 align="center">01 | CORE ENGINEERING DOMAINS</h2>
-
-<table>
-<tr>
-<td width="25%" align="center">
-
-### MICROCONTROLLERS
-
-STM32
-
-ESP32
-
-PIC
-
-8051
-
-LPC2148
-
-</td>
-<td width="25%" align="center">
-
-### FIRMWARE
-
-Embedded C
-
-C++
-
-GPIO
-
-Timers
-
-Interrupts
-
-</td>
-<td width="25%" align="center">
-
-### CONNECTIVITY
-
-UART
-
-I2C
-
-SPI
-
-CAN
-
-Wi-Fi
-
-LoRa
-
-</td>
-<td width="25%" align="center">
-
-### HARDWARE
-
-PCB Design
-
-Circuit Design
-
-Prototyping
-
-Debugging
-
-Testing
-
-</td>
-</tr>
-</table>
-
-<h2 align="center">02 | TECHNOLOGY STACK</h2>
+<h2 align="center">01 | TECHNOLOGY STACK</h2>
 
 **Programming Languages**
 
@@ -200,7 +126,7 @@ Testing
 
 ---
 
-<h2 align="center">03 | FEATURED ENGINEERING PROJECTS</h2>
+<h2 align="center">02 | FEATURED ENGINEERING PROJECTS</h2>
 
 <table>
 <tr>
@@ -333,7 +259,7 @@ GSM communication using PIC microcontroller and serial AT commands.
 
 ---
 
-<h2 align="center">04 | ENGINEERING INTERESTS</h2>
+<h2 align="center">03 | ENGINEERING INTERESTS</h2>
 
 <table>
 <tr>
@@ -375,7 +301,7 @@ Hardware Prototyping
 
 ---
 
-<h2 align="center">05 | GITHUB CONTRIBUTIONS</h2>
+<h2 align="center">04 | GITHUB CONTRIBUTIONS</h2>
 
 <p align="center">
   My actual contribution calendar is available directly on my GitHub profile.
@@ -389,7 +315,7 @@ Hardware Prototyping
 
 ---
 
-<h2 align="center">06 | LET'S CONNECT</h2>
+<h2 align="center">05 | LET'S CONNECT</h2>
 
 <p align="center">
 <a href="https://github.com/Shastha08">
