@@ -51,10 +51,16 @@
         <li>PCB design, hardware debugging and prototyping</li>
         <li>Robotics, automation and embedded systems mentoring</li>
       </ul>
-      <p><strong>ENGINEERED IN CODE. POWERED BY CIRCUITS.</strong></p>
+      
+
+        <h4>
+        "தெய்வத்தான் ஆகா தெனினும் முயற்சிதன்
+மெய்வருத்தக் கூலி தரும்."</h4>
     </td>
+
   </tr>
 </table>
+
 
 ---
 
@@ -62,7 +68,7 @@
 
 <table>
   <tr>
-    <td width="50%" valign="top">
+    <td width="70%" valign="top">
       <strong>MICROCONTROLLERS</strong><br><br>
       <img src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white" alt="STM32">
       <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" alt="ESP32"><br>
