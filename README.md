@@ -51,8 +51,7 @@
         <li>PCB design, hardware debugging and prototyping</li>
         <li>Robotics, automation and embedded systems mentoring</li>
       </ul>
-      
-
+p
         <p>
         திருக்குறள் 619 (அதிகாரம்: ஆள்வினையுடைமை)
         தெய்வத்தான் ஆகா தெனினும் முயற்சிதன்  
