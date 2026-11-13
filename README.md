@@ -51,9 +51,14 @@
         <li>PCB design, hardware debugging and prototyping</li>
         <li>Robotics, automation and embedded systems mentoring</li>
       </ul>
+      <h4>
+        திருக்குறள் (குறள் 619):
+        அதிகாரம்: ஆள்வினையுடைமை
+      </h4>
        <p>
         Though fate-divine should make your labour vain; Effort its labour's sure reward will gain
-        தெய்வத்தான் ஆகா தெனினும் முயற்சிதன்  
+         
+        தெய்வத்தான் ஆகா தெனினும் முயற்சிதன்<br>
         மெய்வருத்தக் கூலி தரும்.</p>
     </td>
 
