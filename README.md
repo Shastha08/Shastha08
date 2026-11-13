@@ -57,7 +57,6 @@
       </h4>
        <p>
         Though fate-divine should make your labour vain; Effort its labour's sure reward will gain
-         
         தெய்வத்தான் ஆகா தெனினும் முயற்சிதன்<br>
         மெய்வருத்தக் கூலி தரும்.</p>
     </td>
