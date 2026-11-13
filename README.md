@@ -53,12 +53,13 @@
       </ul>
       <h4>
         திருக்குறள் (குறள் 619):
-        அதிகாரம்: ஆள்வினையுடைமை
+        அதிகாரம்: ஆள்வினையுடைமை<br>
+        Diligence, perseverance and the ability to achieve goals through continuous effort.
       </h4>
        <p>
-        Though fate-divine should make your labour vain; Effort its labour's sure reward will gain
         தெய்வத்தான் ஆகா தெனினும் முயற்சிதன்<br>
-        மெய்வருத்தக் கூலி தரும்.</p>
+        மெய்வருத்தக் கூலி தரும்.<br>
+        Though fate-divine should make your labour vain; Effort its labour's sure reward will gain</p>
     </td>
 
   </tr>
