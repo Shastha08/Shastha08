@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Shastha08"><img src="https://img.shields.io/badge/GitHub-Shastha08-181717?style=for-the-badge&logo=github" alt="GitHub"></a>
+  <a href="https://github.com/Shasthachandru-S"><img src="https://img.shields.io/badge/GitHub-Shastha08-181717?style=for-the-badge&logo=github" alt="GitHub"></a>
   <a href="https://www.linkedin.com/in/shastha-chandru-s/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"></a>
 </p>
 
