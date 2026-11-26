@@ -36,7 +36,7 @@
         <li>PCB design and prototyping</li>
         <li>Technical training</li>
       </ul>
-      <p><a href="https://github.com/Shastha08">GitHub</a><br><a href="https://www.linkedin.com/in/shastha-chandru-s/">LinkedIn</a></p>
+      <p><a href="https://github.com/Shasthachandru-S">GitHub</a><br><a href="https://www.linkedin.com/in/shastha-chandru-s/">LinkedIn</a></p>
     </td>
     <td width="69%" valign="top">
       <h3>ABOUT ME</h3>
